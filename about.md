@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+A software developer and architect that have a passion in .NET Core, JS + Node, Elm, DDD, CQRS, MSA, FRP.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thangchung@ymail.com](mailto:thangchung@ymail.com)
